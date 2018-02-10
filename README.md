@@ -3,7 +3,7 @@ This is a C++ implementation of mouse tracking project by using OpenCV and mfc f
 
 Overview
 I do this project for realizing the function tracking a lighting point like PS MOVE using OpenCV, MFC framework and a usb uvc camera which
-is at least 30 FPS if you want a pretty usage experience.
+is at least 30 FPS if you want pretty user experience.
 
 It denpends on OpenCV, MFC and visual studio, so you have to install them first.And of course, it runs in the Windows Environment.That's
 why I upload a VS project.
